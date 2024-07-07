@@ -1,6 +1,7 @@
 # Contributions for Soil Nutrient Estimation Using Earth Observation Data: Datasets, Toolkits and Semi-Supervised Learning
 
 Thesis: [193748-Rafael-Candeias-dissertacao.pdf](193748-Rafael-Candeias-dissertacao.pdf)
+
 Extended Abstract: [193748-Rafael-Candeias-resumo.pdf](193748-Rafael-Candeias-resumo.pdf)
 
 
